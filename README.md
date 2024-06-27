@@ -1,4 +1,4 @@
-# Mini-Hacking-Tool
+# Hacking-Tool
 This Hacking tool has the following features:
 1. ******Ceasar Cipher Encryption and Decryption of text******: This feature of this project is capable of encrypting 
  and decrypting the plain text using a key.
